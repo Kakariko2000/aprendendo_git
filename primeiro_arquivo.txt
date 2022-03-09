@@ -1,0 +1,11 @@
+Olá vim listar alguns dos comandos que aprendi ao longo da minha jornada
+com git
+
+git add - para eu adicionar  arquivos no commit
+git commit -m - para eu adicionar mensagem
+git clone - link do repositório
+git push - para enviar o repositório remoto
+
+tem outros comandos que ainda estou apredendo, porém estou gostando
+do meu desempenho, foi um modulo bem divertido de aprender
+porém estou ansioso para aprenter html.
